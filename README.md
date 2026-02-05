@@ -19,3 +19,6 @@ react sebagai frontend untuk menampilkan visual pada aplikasi dengan feature :
 - axios
 - tanstack query
 - redux (statemangement)
+
+  
+**Made with ❤️ by Yuz (https://github.com/yuz97)**
